@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Guido",
+    "email": "guido@email.com",
+    "cpf": "12345678900",
+    "profissao": "backend",
+    "endereco": {
+      "cep": "12345-678",
+      "rua": "Rua A",
+      "bairro": "Centro",
+      "cidade": "Salvador"
+    }
+  },
+  {
+    "nome": "Dani",
+    "email": "dani@email.com",
+    "cpf": "12345678901",
+    "profissao": "frontend",
+    "endereco": {
+      "cep": "12345-678",
+      "rua": "Rua A",
+      "bairro": "Centro",
+      "cidade": "Salvador"
+    }
+  },
+  {
+    "nome": "Ruli",
+    "email": "rulo@email.com",
+    "cpf": "12345678902",
+    "profissao": "frontend",
+    "endereco": {
+      "cep": "12345-678",
+      "rua": "Rua A",
+      "bairro": "Centro",
+      "cidade": "Salvador"
+    }
+  }
+]
